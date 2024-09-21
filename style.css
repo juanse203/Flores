@@ -1,0 +1,16 @@
+.imagen1{
+    text-align: center;
+}
+
+body {
+    background-image: url(imagenes/fondoflores.jpg);
+    background-position: center center;
+    padding: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+h1{
+    font-size: 6em;
+}
